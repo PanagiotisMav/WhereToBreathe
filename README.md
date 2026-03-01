@@ -33,7 +33,7 @@ The AQI calculation uses daily average concentrations of NO₂ (Nitrogen Dioxide
 
 **The website is live and ready to use!**
 
-[https://users.iee.ihu.gr/~iee2021087/WhereToBreathe.html](https://panagiotismav.github.io/WhereToBreathe/)
+[(https://panagiotismav.github.io/WhereToBreathe/)](https://panagiotismav.github.io/WhereToBreathe/)
 
 <img width="1920" height="1042" alt="556393950-fbaeb499-377d-4ba4-be9d-7622a18af5a2" src="https://github.com/user-attachments/assets/8bdb3be1-7078-4d06-aff0-719670b9d9dd" />
 
