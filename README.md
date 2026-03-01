@@ -35,5 +35,6 @@ The AQI calculation uses daily average concentrations of NO₂ (Nitrogen Dioxide
 
 https://users.iee.ihu.gr/~iee2021087/WhereToBreathe.html
 
-![image](https://github.com/user-attachments/assets/62b0b1e3-0a85-424a-8da8-03dfd574ee08)
+<img width="1920" height="1042" alt="556393950-fbaeb499-377d-4ba4-be9d-7622a18af5a2" src="https://github.com/user-attachments/assets/8bdb3be1-7078-4d06-aff0-719670b9d9dd" />
+
 
